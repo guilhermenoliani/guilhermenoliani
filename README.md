@@ -1,12 +1,12 @@
 ## Oi, eu sou o Guilherme Oliani
+
 - 👀 Estou interessado em aprender linguagens de programação
 - 🌱 Atualmente estou aprendendo Javascript
 - 📫 Contate-me pelo email: guilhermenoliani@gmail.com
-
 <div align="center">
   <a href="https://github.com/guilhermenoliani/">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilhermenoliani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermenoliani&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermenoliani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="GIT-gui" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
