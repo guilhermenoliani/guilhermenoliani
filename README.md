@@ -29,6 +29,6 @@
  
 </div>
  <div align="center">
-   <a href="https://app.daily.dev/GuilhermeOliani"><img src="https://api.daily.dev/devcards/06fd79b1be354b4eac2932a01b927ac8.png?r=oav" width="300" alt="Guilherme Oliani's Dev Card"/></a>
+   <a href="https://app.daily.dev/GuilhermeOliani"><img src="https://api.daily.dev/devcards/06fd79b1be354b4eac2932a01b927ac8.png?r=mk8" width="300" alt="Guilherme Oliani's Dev Card"/></a>
   </div>
   
