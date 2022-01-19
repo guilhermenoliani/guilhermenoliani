@@ -1,6 +1,6 @@
 ## Oi, eu sou o Guilherme Oliani
 
-- 🌱 Atualmente estou aprendendo Typescript e ReactJS
+- :books: Atualmente estou estudando Typescript e ReactJS
 - 📫 Contate-me pelo email: guilhermenoliani@gmail.com
 <div align="center">
   <a href="https://github.com/guilhermenoliani/">
