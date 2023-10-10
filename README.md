@@ -1,7 +1,21 @@
-## Olá, eu sou o Guilherme Oliani !
- Tenho 23 anos e sou apaixonado por tecnologia. Atualmente estou estudando ReactJs e NextJs com foco no desenvolvimento front-end. Também faço alguns conteúdos sobre programação em minha conta do Instagram.
+# Olá! 👋
 
-- Atualmente estou estudando ReactJS e NextJs 
+## Sobre mim
+E aí! Sou apaixonado por tecnologia e adoro criar coisas incríveis para a web. Atualmente, estou cursando o Bacharelado em Engenharia de Software, o que tem aprimorado ainda mais meu interesse em desenvolvimento de aplicações web. Possuo expertise em utilizar React para a interface do usuário, Node.js para o backend e PostgreSQL para manter nossos dados organizados. Além disso, tenho experiência prática em trabalhar com Cypress para garantir que tudo funcione perfeitamente, e também tenho conhecimento em Apache Hop para facilitar a integração de dados.
+
+## Minha Jornada
+Minha paixão pela tecnologia me levou ao Bacharelado em Engenharia de Software. A formação solidificou minhas habilidades e me impulsionou a buscar aprimoramento contínuo. Tenho familiaridade com TypeScript, Docker e sistemas Linux, os quais utilizo para criar soluções eficientes. Além disso, estou imerso na exploração do vasto ecossistema de nuvem, com Azure e AWS como foco de estudo e aplicação prática.
+
+## Coisas que Me Empolgam
+- **Desenvolver com React**: Tenho grande satisfação em criar interfaces de usuário modernas e envolventes que tornam a vida digital mais fácil e bonita.
+- **Construir com Node.js**: Adoro criar servidores e aplicativos eficientes que fazem coisas incríveis nos bastidores. É um desafio que me motiva.
+- **Cypress para Garantir a Qualidade**: É fascinante assegurar que nossas aplicações funcionem perfeitamente em todos os aspectos, e o Cypress é meu companheiro confiável nessa jornada.
+- **Explorar Novas Tecnologias**: Gosto de mergulhar em novas tecnologias e descobrir maneiras mais eficientes e interessantes de fazer as coisas.
+
+## Vamos Conhecer Mais!
+Estou sempre aberto para colaborações e oportunidades de aprendizado. Se você compartilha o mesmo entusiasmo por tecnologia ou deseja colaborar em um projeto, ficarei feliz em trocar ideias e aprender juntos!
+
+
 - 📫 Contate-me pelo email: guilhermenoliani@gmail.com
 
 <div align="center">
